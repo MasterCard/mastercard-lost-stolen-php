@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="2" assertions="6" failures="0" errors="0" time="1.515936">
+    <testsuite name="MasterCard\Api\LostStolen\AccountInquiryTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-LostStolen-Php/workspace/generated-code/lost-stolen/php/sdk/Test/MasterCard/Api/LostStolen/AccountInquiryTest.php" tests="2" assertions="6" failures="0" errors="0" time="1.515936">
+      <testcase name="test_example_stolen" class="MasterCard\Api\LostStolen\AccountInquiryTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-LostStolen-Php/workspace/generated-code/lost-stolen/php/sdk/Test/MasterCard/Api/LostStolen/AccountInquiryTest.php" line="55" assertions="3" time="0.889534"/>
+      <testcase name="test_example_lost" class="MasterCard\Api\LostStolen\AccountInquiryTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-LostStolen-Php/workspace/generated-code/lost-stolen/php/sdk/Test/MasterCard/Api/LostStolen/AccountInquiryTest.php" line="72" assertions="3" time="0.626402"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

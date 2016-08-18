@@ -1,0 +1,35 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 2
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\LostStolen\\AccountInquiryTest",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\LostStolen\\AccountInquiryTest",
+    "test": "MasterCard\\Api\\LostStolen\\AccountInquiryTest::test_example_stolen"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\LostStolen\\AccountInquiryTest",
+    "test": "MasterCard\\Api\\LostStolen\\AccountInquiryTest::test_example_stolen",
+    "status": "pass",
+    "time": 0.88953399658203,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\LostStolen\\AccountInquiryTest",
+    "test": "MasterCard\\Api\\LostStolen\\AccountInquiryTest::test_example_lost"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\LostStolen\\AccountInquiryTest",
+    "test": "MasterCard\\Api\\LostStolen\\AccountInquiryTest::test_example_lost",
+    "status": "pass",
+    "time": 0.6264021396637,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

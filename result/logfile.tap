@@ -1,0 +1,4 @@
+TAP version 13
+ok 1 - MasterCard\Api\LostStolen\AccountInquiryTest::test_example_stolen
+ok 2 - MasterCard\Api\LostStolen\AccountInquiryTest::test_example_lost
+1..2
